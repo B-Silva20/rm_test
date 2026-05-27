@@ -225,3 +225,12 @@ test3_out.mp4
 - `test1_out.png`：颜色分割结果
 - `test2_out.png`：灯条框选结果
 - `test3_out.mp4`：矩形位姿解算可视化视频
+
+## GitHub Release 资源
+
+由于视频文件体积较大，以下资源未放入仓库主体文件中，请在 GitHub Releases 中下载：
+
+- `additional_test.mp4`
+- `test3.mp4`
+- `test3_out.mp4`
+- `talk_history.pdf`
